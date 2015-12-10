@@ -20,8 +20,8 @@
     "dependencies": {
         "wcjs-renderer": "*",
         "jquery": "*",
-        "jquery-ui": "jaruba/jquery-ui",
-        "computer-sleep" : "jaruba/computer-sleep",
+        "jquery-ui": "git+https://github.com/jaruba/jquery-ui.git",
+        "computer-sleep" : "git+https://github.com/jaruba/computer-sleep.git",
         "request" : "*"
     }
 }
